@@ -4,7 +4,7 @@
 ![npm](https://img.shields.io/npm/dw/ng-qrcode-svg)
 [![license](https://img.shields.io/npm/l/ng-qrcode-svg.svg)](https://github.com/webtimo-de/ng-qrcode-svg/blob/master/LICENSE)
 
-### Simple QR code generator (SVG only) for Angular
+> Simple QR code generator (SVG only) for Angular
 
 ## Installation
 
