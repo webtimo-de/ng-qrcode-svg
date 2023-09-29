@@ -1,0 +1,58 @@
+{
+  "name": "@webtimo-de/ng-qrcode-svg",
+  "version": "0.0.1",
+  "description": "Simple QR code generator (SVG only) for Angular",
+  "keywords": [
+    "qr",
+    "qrcode",
+    "qr-code",
+    "angular",
+    "svg",
+    "render",
+    "image",
+    "reactive",
+    "simple",
+    "easy",
+    "print",
+    "img",
+    "scalable"
+  ],
+  "author": {
+    "email": "npm@web-timo.de",
+    "name": "Timo Köhler",
+    "url": "https://www.web-timo.de/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webtimo-de/ng-qrcode-svg/issues"
+  },
+  "homepage": "https://github.com/webtimo-de/ng-qrcode-svg#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webtimo-de/ng-qrcode-svg.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "@angular/common": "^16.2.7",
+    "@angular/core": "^16.2.7"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "module": "fesm2022/webtimo-de-ng-qrcode-svg.mjs",
+  "typings": "index.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2022": "./esm2022/webtimo-de-ng-qrcode-svg.mjs",
+      "esm": "./esm2022/webtimo-de-ng-qrcode-svg.mjs",
+      "default": "./fesm2022/webtimo-de-ng-qrcode-svg.mjs"
+    }
+  },
+  "sideEffects": false
+}
