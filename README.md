@@ -1,15 +1,15 @@
-# @webtimo-de/ng-qrcode-svg
+# ng-qrcode-svg
 
-[![npm-version](https://img.shields.io/npm/v/@webtimo-de/ng-qrcode-svg.svg?label=npm)](https://www.npmjs.com/package/@webtimo-de/ng-qrcode-svg)
-![npm](https://img.shields.io/npm/dw/@webtimo-de/ng-qrcode-svg)
-[![license](https://img.shields.io/npm/l/@webtimo-de/ng-qrcode-svg.svg)](https://github.com/webtimo-de/ng-qrcode-svg/blob/master/LICENSE)
+[![npm-version](https://img.shields.io/npm/v/ng-qrcode-svg.svg?label=npm)](https://www.npmjs.com/package/ng-qrcode-svg)
+![npm](https://img.shields.io/npm/dw/ng-qrcode-svg)
+[![license](https://img.shields.io/npm/l/ng-qrcode-svg.svg)](https://github.com/webtimo-de/ng-qrcode-svg/blob/master/LICENSE)
 
-> Simple QR code generator (SVG only) for Angular
+### Simple QR code generator (SVG only) for Angular
 
 ## Installation
 
 ```bash
-npm install @webtimo-de/ng-qrcode-svg
+npm install ng-qrcode-svg
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ npm install @webtimo-de/ng-qrcode-svg
 
 ```ts
 import {NgModule} from '@angular/core';
-import {QrcodeSvgModule} from '@webtimo-de/ng-qrcode-svg';
+import {QrcodeSvgModule} from 'ng-qrcode-svg';
 
 @NgModule({
     imports: [
@@ -52,7 +52,7 @@ export class MyModule {
 ---
 ## @larscom/ng-qrcode-svg
 
-This is a renewed variant of the [ng-qrcode-svg](https://github.com/larscom/ng-qrcode-svg). This runs on
+This is a renewed variant of the [@larscom/ng-qrcode-svg](https://github.com/larscom/ng-qrcode-svg). This runs on
 Angular 16 and Ivy. I personally use the library, and it is therefore regularly maintained.
 
 
