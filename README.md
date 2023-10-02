@@ -6,13 +6,20 @@
 
 > Simple QR code generator (SVG only) for Angular
 
-## Installation
+## Install 🌐
 
 ```bash
 npm install ng-qrcode-svg
 ```
 
-## Usage
+
+## Demo ‍🧑‍💻
+
+You can test it here:
+
+https://projects.web-timo.de/preview/ng-qrcode-svg
+
+## Usage 🔥
 
 1. Import module `QrcodeSvgModule`
 
